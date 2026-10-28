@@ -1,0 +1,10 @@
+discord.py>=2.7.1
+requests>=2.32
+PySocks>=1.7.1
+msgpack>=1.2
+cryptography>=42.0
+aiohttp>=3.13
+yarl>=1.23
+
+Pillow>=10
+useragent-changer>=0.3.2

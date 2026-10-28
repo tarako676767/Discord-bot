@@ -1,0 +1,58 @@
+{
+  "token": "ここにボットのトークン",
+  "guild_id": "ここにサーバー(自鯖)のid",
+  "allowed_user_ids": [
+    "ここにボットを操作できるユーザーのid"
+  ],
+  "paypay_token_file": "paypay_token.json",
+  "paypay_proxy_url": "",
+  "python_realip": "",
+  "ticket_category_id": "必要ならカテゴリーid",
+  "ticket_channel_id": "必要ならチャンネルid",
+  "public_result_channel_id": "必要ならチャンネルid",
+  "menu_prices": {
+    "coin_max": 100,
+    "score_max": 100,
+    "level_max": 100,
+    "tsum_lv": 100,
+    "box": 100,
+    "coin": 100,
+    "score": 100,
+    "premium": 100,
+    "guest_create": 0
+  },
+  "select_box_id": 12007013,
+  "premium_gacha_id": 12007007,
+  "box_fallback_premium_box": false,
+  "premium_fill_coins": 160000000,
+  "free_unlimited_enabled": true,
+  "free_unlimited_ids": [],
+  "free_payment_user_id": 0,
+  "sales_file": "tsum_sales.json",
+  "free_used_file": "tsum_free_used.json",
+  "achievement_channel_id": "必要ならチャンネルid",
+  "tor_enabled": true,
+  "tor_socks_url": "socks5h://127.0.0.1:9050",
+  "discord_proxy_url": "",
+  "achievement_channel_base": "",
+  "rental_enabled": true,
+  "rental_file": "tsum_rentals.json",
+  "rental_prices": {
+    "1": 2000,
+    "3": 5000,
+    "6": 9000,
+    "12": 12000,
+    "0": 15000
+  },
+  "rental_log_channel_id": "必要ならチャンネルid",
+  "rental_guild_lock": true,
+  "rental_leave_unlicensed": false,
+  "rental_home_guild_ids": [],
+  "guild_settings": {},
+  "paypay_token_dir": "paypay_tokens",
+  "paypay_fallback_shared": false,
+  "panel_messages": {
+    "menu": []
+  },
+  "tor_game_api": true
+}
